@@ -41,8 +41,13 @@ Program sederhana yang memanfaatkan socket programming sebagai fungsi utamanya. 
  ```
 
 ## Tampilan Program
+### Server
 ![Screenshot 2023-11-28 232041](https://github.com/Sister20/tugas-besar-if3130-jaringan-komputer-jar_/assets/91790457/700cb349-24ee-4b54-88b5-18a470891dc3)
 ![Screenshot 2023-11-28 234344](https://github.com/Sister20/tugas-besar-if3130-jaringan-komputer-jar_/assets/91790457/297718b0-cdad-4c71-bdb6-3e54a33eee55)
+
+### Client
+![Screenshot 2023-12-23 212357](https://github.com/jasonrivalino/tugas-besar-if3130-jaringan-komputer-jar_/assets/91790457/a1750759-0668-4cc3-b93d-d6bb6b9a65db)
+![Screenshot 2023-12-23 212542](https://github.com/jasonrivalino/tugas-besar-if3130-jaringan-komputer-jar_/assets/91790457/9dd30e91-cd99-4140-9ec7-c066703d7bc7)
 
 ## Cara Menjalankan Program
 <b>1. Clone repository ini terlebih dahulu</b>
